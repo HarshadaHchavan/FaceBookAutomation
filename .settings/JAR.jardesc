@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/chava/Downloads/JAR.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/facebookAutomation/.settings/JAR.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/facebookAutomation/target"/>
+        <file path="/department application/.project"/>
+        <folder path="/facebookAutomation/src"/>
+        <folder path="/facebookAutomation/test-output"/>
+        <javaElement handleIdentifier="=facebookAutomation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=facebookAutomation/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <folder path="/facebookAutomation/properties"/>
+        <javaElement handleIdentifier="=facebookAutomation/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/facebookAutomation/.classpath"/>
+        <folder path="/facebookAutomation/Driver"/>
+        <file path="/facebookAutomation/.project"/>
+        <javaElement handleIdentifier="=department application/src"/>
+        <javaElement handleIdentifier="=facebookAutomation/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/department application/.classpath"/>
+        <file path="/facebookAutomation/pom.xml"/>
+    </selectedElements>
+</jardesc>
